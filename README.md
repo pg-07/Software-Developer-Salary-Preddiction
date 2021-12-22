@@ -20,7 +20,7 @@ I have used streamlit, which is a python library that helps to make frontend and
 <br>
 
 ### Preprocessing and ML model
-<hr>
+
 Out of all, only three main features are taken to calculate the value.
 
 Various methods such as LinearRegression, DecisionTressRegressor and RandomForestRegressor are used for better results.
@@ -36,7 +36,7 @@ Various methods such as LinearRegression, DecisionTressRegressor and RandomFores
 <br>
 
 ## Salary graph according to Demography
-<hr>
+
 
 MeanSquaredError is used for correctneess and optimization.
 <br>
@@ -44,7 +44,7 @@ MeanSquaredError is used for correctneess and optimization.
 ![IMG!](img/s3.png)
 
 ## Conclusion
-<hr>
+
 The annual salaray is dependent upon Country and years of experience, and has less effect from education level. 
 
 
