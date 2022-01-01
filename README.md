@@ -19,6 +19,14 @@ I have used streamlit, which is a python library that helps to make frontend and
 <br>
 <br>
 
+## App Demo
+
+
+https://user-images.githubusercontent.com/90982385/147857049-fb17de42-8e6d-4910-bb0c-b4832850dadc.mp4
+
+
+
+
 ### Preprocessing and ML model
 
 Out of all, only three main features are taken to calculate the value.
